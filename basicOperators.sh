@@ -13,7 +13,7 @@ COST_BASKET=1
 # To change
 ############
 
-TOTAL=
+TOTAL=$(( $COST_PINEAPPLE * 1 + $COST_BANANA * 2 + $COST_WATERMELON * 3 + $COST_BASKET ))
 
 ##########
 # Testing
